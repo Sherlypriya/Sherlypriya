@@ -98,21 +98,12 @@ An AI-based project focused on identifying and categorizing waste to support sma
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sherlypriya&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sherlypriya&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sherlypriya&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=Sherlypriya&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherlypriya&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me
