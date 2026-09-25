@@ -1,140 +1,158 @@
-# Hi, I'm Sherlypriya 👋
+#Hi, I'm Sherlypriya
 
-### Computer Science Engineering Student | Software Developer | Full Stack Developer
+<h3 align="center">
+  💻 Computer Science Engineering Student | 🚀 Aspiring Software Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Java+%7C+Python+%7C+React;DSA+%7C+Web+Development;Building+Projects+and+Learning+Every+Day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Java+%7C+Python+%7C+React;Data+Structures+%26+Algorithms;Full+Stack+Development;AI%2FML+Enthusiast;Building+Projects+%26+Solving+Problems" />
+</p>
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Sherlypriya">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 🚀 About Me
 
-I'm a Computer Science Engineering student passionate about software development,
-problem solving and building real-world applications.
+🎓 I'm a **Computer Science Engineering student** passionate about building
+real-world software applications and improving my problem-solving skills.
 
-- 🎓 Computer Science Engineering Student
-- 💻 Interested in Software Development
-- ☕ Learning Java and Data Structures & Algorithms
-- 🌐 Building Full Stack Web Applications
-- 🤖 Exploring AI/ML and Generative AI
-- 🚀 Preparing for Software Engineering placements
-- 📚 Solving coding problems regularly
+💻 Currently focusing on:
 
----
+- ☕ Java & Object-Oriented Programming
+- 🧩 Data Structures & Algorithms
+- 🌐 Full Stack Web Development
+- 🤖 AI / ML & Generative AI
+- 🧠 Problem Solving & Competitive Programming
+- 🚀 Building projects for real-world use cases
 
-## 🎓 Education
-
-**B.E. Computer Science and Engineering**
-
-V.S.B. Engineering College
+🎯 **Career Goal:** To start my career as a Software Developer and contribute
+to impactful technology products.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,js" />
+<img src="https://skillicons.dev/icons?i=java,python,c,js" />
 </p>
 
-### Web Development
+### 🌐 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,flask" />
+<img src="https://skillicons.dev/icons?i=html,css,react,flask" />
 </p>
 
-### Database & Tools
+### 🗄️ Database & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
+</p>
+
+### 🤖 Currently Exploring
+
+<p>
+<img src="https://skillicons.dev/icons?i=ai,python" />
 </p>
 
 ---
 
-## 🚀 Projects
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
 
 ### 🎮 Code Quest
 
 An interactive coding game designed to make programming practice more engaging.
 
-**Tech:** HTML, CSS, JavaScript
+**Tech Stack**
 
----
+`HTML` `CSS` `JavaScript`
+
+</td>
+
+<td width="50%">
 
 ### 💼 College Placement Management System
 
-A web application designed to manage student placement activities and recruitment-related information.
+A web application designed to manage student placement activities and recruitment information.
 
-**Tech:** Python, Flask, HTML, CSS
+**Tech Stack**
 
----
+`Python` `Flask` `HTML` `CSS`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
 
 ### 🤖 AI Career Guidance System
 
-An application that provides career guidance and suggestions based on user interests and skills.
+An application that provides career guidance based on user interests, skills and career goals.
 
-**Tech:** Python, Flask, HTML, CSS
+**Tech Stack**
 
----
+`Python` `Flask` `AI`
+
+</td>
+
+<td width="50%">
 
 ### ♻️ AI Smart Waste Segregation
 
-An AI-based project focused on identifying and categorizing waste to support smart waste management.
+An AI-based project focused on identifying and categorizing waste for smarter waste management.
+
+**Tech Stack**
+
+`Python` `AI/ML`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 💻 Coding Practice
-
-- Data Structures & Algorithms
-- Java Programming
-- LeetCode
-- Aptitude
-- Problem Solving
-
----
-
-## 📊 GitHub Stats
+# 🧠 Coding & Problem Solving
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sherlypriya&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://img.shields.io/badge/Java-DSA-orange?style=for-the-badge&logo=java"/>
+
+<img src="https://img.shields.io/badge/LeetCode-Practice-black?style=for-the-badge&logo=leetcode"/>
+
+<img src="https://img.shields.io/badge/Problem-Solving-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Aptitude-Practice-purple?style=for-the-badge"/>
+
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sherlypriya&theme=tokyonight&hide_border=true" />
-</p>
----
+Currently practicing:
 
-## 🌐 Connect With Me
-
-<p>
-  <a href="https://github.com/Sherlypriya">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/sherly096b39/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 🎯 2026 Goals
-
-- 🚀 Get placed in a software/IT company
-- 💻 Strengthen Java and DSA
-- 🧠 Improve problem-solving skills
-- 🌐 Build more real-world projects
-- 🤖 Learn AI/ML and Generative AI
-- 🏆 Participate in coding challenges and hackathons
-
----
-
-⭐ **Thanks for visiting my profile!**
-
-### "Learn. Build. Improve. Repeat." 🚀
+```text
+Arrays
+Strings
+Linked Lists
+Stacks & Queues
+Recursion
+Matrices
+Sorting & Searching
+Object-Oriented Programming
